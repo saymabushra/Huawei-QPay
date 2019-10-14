@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">QPay</string>
+    <string name="text_device_authentication">Welcome to \QPay</string>
+    <string name="text_powered_by">Powered by QPay\nDeveloped by HAL Technologies Ltd.</string>
+
+    <string-array name="array_bank_bin">
+        <item>Customer</item>
+        <item>Merchant</item>
+    </string-array>
+    <string name="forget_pin">Forget PIN?</string>
+    <string name="have_an_account">Don\'t have an account?</string>
+    <string name="register">Sign Up</string>
+    <string name="btn_label_login">Login</string>
+
+    <!-- Item Label -->
+    <!-- Item Label -->
+    <!-- Item Label -->
+    <string name="label_item_logout">Logout</string>
+
+    <!-- Header Label -->
+    <!-- Header Label -->
+    <!-- Header Label -->
+    <string name="label_header_change_pin">Change PIN</string>
+    <string name="label_header_tag_device">Tag Device</string>
+
+    <!-- Text Label -->
+    <!-- Text Label -->
+    <!-- Text Label -->
+    <string name="label_textview_select_account_type">Select Account Type</string>
+    <string name="label_textview_scan_me">scan to pay</string>
+    <string name="label_textview_to_pay_me">to pay</string>
+    <string name="label_textview_get_merchant_list">Get Merchant List</string>
+    <string name="label_textview_scan_merchant">Scan Merchant</string>
+    <string name="label_textview_scan_customer">Scan Customer</string>
+    <string name="label_textview_caption">Caption: </string>
+    <string name="label_textview_source_account">Source Account: </string>
+    <string name="label_textview_destination_account">Destination Account: </string>
+    <string name="label_textview_destination_account_holder">Destination Account Holder: </string>
+    <string name="label_textview_amount">Amount: </string>
+    <string name="label_textview_transaction_type">Transaction Type: </string>
+    <string name="label_textview_select_merchant_wallet">Select Merchant Wallet</string>
+    <string name="label_textview_select_customer_wallet">Select Customer Wallet</string>
+    <string name="label_textview_select_source_wallet">Select Source Wallet</string>
+    <string name="label_textview_district">Select District</string>
+    <string name="label_textview_select_thana">Select Thana</string>
+    <string name="label_textview_select_identification_doc_type">Select Doc Type</string>
+
+    <!-- Check Box Label -->
+    <!-- Check Box Label -->
+    <!-- Check Box Label -->
+    <string name="label_checkbox_auto_login">Auto Login</string>
+    <string name="label_checkbox_scan_customer_wallet">Scan Customer Wallet</string>
+    <string name="label_checkbox_scan_merchant_wallet">Scan Merchant Wallet</string>
+
+    <!-- Button Label -->
+    <!-- Button Label -->
+    <!-- Button Label -->
+    <string name="label_button_add_to_fav">Add To Favorite</string>
+    <string name="label_button_delete">Delete</string>
+    <string name="label_button_delete_all">Delete All</string>
+    <string name="label_button_generate_otp">Generate OTP</string>
+    <string name="label_button_get_pin">Get PIN</string>
+    <string name="label_button_go">Go</string>
+    <string name="label_button_make_payment">Make Payment</string>
+    <string name="label_button_set_user_id">Set User ID</string>
+    <string name="label_button_set_pin">Set PIN</string>
+    <string name="label_button_recent_transaction">Preview Transaction</string>
+    <string name="label_button_address">Save Address</string>
+    <string name="label_button_bank_info">Save Bank Info</string>
+    <string name="label_button_contact">Save Contact Info</string>
+    <string name="label_button_identification_info">Save Identification Info</string>
+    <string name="label_button_introducer_info">Save Introducer Info</string>
+    <string name="label_button_nominee_info">Save Nominee Info</string>
+    <string name="label_button_parents_and_spouse_info">Save Parents/Spouse Info</string>
+    <string name="label_button_personal_info">Save Personal Info</string>
+    <string name="label_button_save_otp">Save OTP</string>
+    <string name="label_button_send_money">Send Money</string>
+    <string name="label_button_sign_up">Sign Up</string>
+    <string name="label_button_submit">Submit</string>
+    <string name="label_button_submit_token">Submit Token</string>
+    <string name="label_button_update_kyc">Update KYC</string>
+    <string name="label_button_update_contact_info">Update Contact Info</string>
+
+    <!-- Hint Edit Text -->
+    <!-- Hint Edit Text -->
+    <!-- Hint Edit Text -->
+    <string name="hint_edit_text_from_date">From Date</string>
+    <string name="hint_edit_text_to_date">To Date</string>
+    <string name="hint_edit_text_set_token">Enter Token</string>
+    <string name="hint_edit_text_enter_full_name">Enter Full Name</string>
+    <string name="hint_edit_text_set_pin">Enter PIN</string>
+    <string name="hint_edit_text_enter_duration_in_min">Enter Duration in Min</string>
+    <string name="hint_edit_text_enter_number_of_transaction">Enter Number of Transaction</string>
+    <string name="hint_edit_text_enter_reference">Enter Reference</string>
+    <string name="hint_edit_text_enter_merchant_wallet">Enter Merchant Wallet</string>
+    <string name="hint_edit_text_enter_customer_wallet">Enter Customer Wallet</string>
+    <string name="hint_edit_text_enter_customer_reference">Enter Customer Reference</string>
+    <string name="hint_edit_text_enter_merchant_pin">Enter Merchant PIN</string>
+    <string name="hint_edit_text_enter_pin">Enter PIN</string>
+    <string name="hint_edit_text_enter_destination_name">Enter Destination Name</string>
+    <string name="hint_edit_text_enter_destination_wallet">Enter Destination Wallet</string>
+    <string name="hint_edit_text_enter_source_wallet">Enter Source Wallet</string>
+    <string name="hint_edit_text_enter_caption">Enter Caption</string>
+    <string name="hint_edit_text_enter_current_pin">Enter Current PIN</string>
+    <string name="hint_edit_text_enter_new_pin">Enter New PIN</string>
+    <string name="hint_edit_text_enter_user_id">Enter User ID</string>
+    <string name="hint_edit_text_enter_mobile_number">Enter Mobile Number</string>
+    <string name="hint_edit_text_enter_email">Enter Email</string>
+    <string name="hint_edit_text_enter_otp">Enter OTP</string>
+    <string name="hint_edit_text_enter_source_otp">Enter Source OTP</string>
+    <string name="hint_edit_text_enter_customer_otp">Enter Customer OTP</string>
+    <string name="hint_edit_text_enter_amount">Enter Amount</string>
+    <string name="hint_edit_text_enter_destination_merchant_wallet">Enter Destination Merchant Wallet</string>
+    <string name="hint_edit_text_enter_destination_customer_wallet">Enter Destination Customer Wallet</string>
+    <string name="hint_edit_text_enter_present_address">Enter Present Address</string>
+    <string name="hint_edit_text_enter_permanent_address">Enter Permanent Address</string>
+    <string name="hint_edit_text_enter_office_address">Enter Office Address</string>
+
+    <string name="hint_edit_text_enter_bank_name">Enter Bank Name</string>
+    <string name="hint_edit_text_enter_bank_branch">Enter Bank Branch</string>
+    <string name="hint_edit_text_enter_bank_account_number">Enter Bank Account Number</string>
+    <string name="hint_edit_text_enter_remark">Enter Remark</string>
+
+    <string name="hint_edit_text_enter_nominee_name">Enter Nominee Name</string>
+    <string name="hint_edit_text_enter_nominee_mobile_number">Enter Nominee Mobile Number</string>
+    <string name="hint_edit_text_enter_relation">Enter Relation</string>
+    <string name="hint_edit_text_enter_percent">Enter Percent</string>
+
+    <string name="hint_edit_text_enter_introducer">Enter Introducer Name</string>
+    <string name="hint_edit_text_enter_introducer_mobile_number">Enter Introducer Mobile Number</string>
+    <string name="hint_edit_text_enter_introducer_address">Enter Introducer Address</string>
+    <string name="hint_edit_text_enter_introducer_occupation">Enter Introducer Occupation</string>
+    <string name="hint_edit_text_enter_identification_number">Enter Identification Number</string>
+
+    <!-- Content Description -->
+    <!-- Content Description -->
+    <!-- Content Description -->
+    <string name="content_description_imgview_grid_item">Grid Item</string>
+    <string name="content_description_imgview_login_info">Login Info</string>
+    <string name="content_description_imgbtn_scan_qr">Scan QR for Merchant</string>
+    <string name="content_description_imgbtn_get_merchant">Get All Merchant</string>
+    <string name="content_description_imgview_profile_pic">Profile Pic</string>
+    <string name="content_description_imgbtn_scan_qr_for_wallet">Scan QR for Wallet</string>
+    <string name="content_description_imgview_preview_qr_for_wallet">Preview QR for Wallet</string>
+    <string name="content_description_imgview_app_logo">QPay app logo for Huawei</string>
+    <string name="content_description_imgbtn_reload_last_transaction">Scan QR for Wallet</string>
+    <string name="content_description_imgbtn_delete_favorite_transaction">Delete Favorite Transaction</string>
+    <string name="content_description_imgbtn_go_to_favorite_transaction">Goto Favorite Transaction</string>
+</resources>
